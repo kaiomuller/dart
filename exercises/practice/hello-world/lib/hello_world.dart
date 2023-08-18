@@ -1,5 +1,4 @@
-class HelloWorld {
-  String hello() {
+
+main () {
     return "Goodbye, Mars!";
   }
-}
